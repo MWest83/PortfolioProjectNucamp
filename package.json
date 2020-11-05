@@ -1,0 +1,31 @@
+{
+  "name": "portfolio-project",
+  "version": "1.0.0",
+  "description": "This is a portfolio project for Nucamp",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MWest83/PortfolioProjectNucamp.git"
+  },
+  "author": "Michael West",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MWest83/PortfolioProjectNucamp/issues"
+  },
+  "homepage": "https://github.com/MWest83/PortfolioProjectNucamp#readme"
+}
